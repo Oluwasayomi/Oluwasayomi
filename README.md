@@ -16,3 +16,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Oluwasayomi&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## ✨ Featured Github Projects:
+
+<img width="783" height="305" alt="Screenshot 2025-09-05 222610" src="https://github.com/user-attachments/assets/bf342aa4-80dd-47ad-a965-942b427e3fca" />
+
