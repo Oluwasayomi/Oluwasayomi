@@ -21,4 +21,4 @@
 https://github.com/user-attachments/assets/3a121d8c-80fb-4bd3-a8dc-49b47d045048
 
 ### Library App <br>
-<img width="783" height="350" alt="Screenshot 2025-09-05 222610" src="https://github.com/user-attachments/assets/bf342aa4-80dd-47ad-a965-942b427e3fca" />
+<img width="1793" height="902" alt="Screenshot 2025-10-02 200412" src="https://github.com/user-attachments/assets/6cc23ab1-459d-4ba0-ac09-881b2091c2e0" />
