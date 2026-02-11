@@ -25,7 +25,7 @@ I specialize in React.js and Tailwind CSS, with a strong interest in performance
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## Beyond Code
+## 😊 Beyond Code
 * 🎹 Musician (piano, violin, saxophone).
 * ☕ Currently learning French and Mandarin Chinese.
 * 📚 Always interested in continuous learning and growth
