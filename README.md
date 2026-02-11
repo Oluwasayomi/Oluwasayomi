@@ -21,12 +21,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## A bit about me
-* ✨ I like building things that look beautiful and are easy to understand.
-* 🕗 I am neither a night owl nor a morning bird. I can do both depending on the situation.
-* 😊 I always have a smile on my face.
-* 🎹 I can play 4 musical instruments.
-* ☕ I am currently learning French and Mandarin.
+## Beyond Code
+* 🎹 Musician (piano, violin, saxophone).
+* ☕ Currently learning French and Mandarin Chinese.
+* 📚 Always interested in continuous learning and growth
   
 ## ✨ Featured Github Projects:
 
