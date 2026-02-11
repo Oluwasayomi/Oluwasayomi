@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Sayomi!
-🔭 Web Developer sharing my journey and learnings in tech<br>🌱 Studied Computer Science in College<br>⚡ Currently making more web development projects in React and other frameworks
+Frontend Engineer focused on building fast, scalable, and user-centered web applications.
+
+I specialize in React.js and Tailwind CSS, with a strong interest in performance optimization, reusable architecture, and clean UI systems.
+
+👉 Currently expanding into MERN Fullstack development.
 
 ## 💻 Tools & Tech:
 ### Frontend
