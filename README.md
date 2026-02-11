@@ -5,6 +5,13 @@ I specialize in React.js and Tailwind CSS, with a strong interest in performance
 
 👉 Currently expanding into MERN Fullstack development.
 
+## 🚀 What I’m Working On
+
+*  Building production-ready React applications
+*  Improving performance and state management patterns
+*  Designing scalable component systems
+*  Expanding into full-stack development
+
 ## 💻 Tools & Tech:
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
