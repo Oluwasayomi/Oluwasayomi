@@ -9,8 +9,10 @@ I specialize in React.js and Tailwind CSS, with a strong interest in performance
 
 *  Building production-ready React applications
 *  Improving performance and state management patterns
-*  Designing scalable component systems
-*  Expanding into full-stack development
+*  Designing reusable, scalable component systems
+*  Prioritising performance and clean architecture
+*  Writing readable, maintainable code
+*  Focusing on product impact, not just visuals
 
 ## 💻 Tools & Tech:
 ### Frontend
