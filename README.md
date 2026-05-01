@@ -46,3 +46,6 @@ https://github.com/user-attachments/assets/3a121d8c-80fb-4bd3-a8dc-49b47d045048
 
 ### Library App <br>
 <img width="1793" height="902" alt="Screenshot 2025-10-02 200412" src="https://github.com/user-attachments/assets/6cc23ab1-459d-4ba0-ac09-881b2091c2e0" />
+
+### Traffic Lights System <br>
+https://github.com/user-attachments/assets/2ad2d478-4184-4ab8-a64a-b0140ce4c928
